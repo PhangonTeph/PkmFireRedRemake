@@ -211,7 +211,7 @@ BicycleAlways=true
 ShowArea=true
 #-------------------------------
 [042]
-# Cidade de Veridiana
+# Cidade de Viridiana
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -394,11 +394,23 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [083]
-# Floresta de Veridiana
+# Floresta de Viridiana
 Bicycle=true
 TrainerVictoryME=Battle victory trainer.ogg
 WildVictoryME=Battle victory wild.ogg
 TrainerBattleBGM=Battle trainer.mid
 Outdoor=true
 WildBattleBGM=Battle wild.mid
+ShowArea=true
+#-------------------------------
+[085]
+# Rota 2
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[095]
+# Rota 10
+Bicycle=true
+Outdoor=true
 ShowArea=true

@@ -101,7 +101,7 @@ CATERPIE,1,2
 WEEDLE,1,2
 ABRA,1,2
 #-------------------------------
-083 # Floresta de Veridiana
+083 # Floresta de Viridiana
 25,10,10
 Land
 CATERPIE,1,2
@@ -116,3 +116,19 @@ WEEDLE,1,2
 ODDISH,1,2
 PIDGEOTTO,1,2
 PIKACHU,1,2
+#-------------------------------
+085 # Rota 2
+25,10,10
+Land
+RATTATA,1,2
+RATTATA,1,2
+CATERPIE,1,2
+WEEDLE,1,2
+CATERPIE,1,2
+RATTATA,1,2
+WEEDLE,1,2
+WEEDLE,1,2
+RATTATA,1,2
+CATERPIE,1,2
+WEEDLE,1,2
+ABRA,1,2

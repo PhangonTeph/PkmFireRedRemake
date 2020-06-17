@@ -1,17 +1,5 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-CAMPER
-Liam
-2
-DIGLETT,10
-BONSLY,11
-#-------------------------------
-LEADER_Brock
-Brock
-2,FULLRESTORE,FULLRESTORE
-GEODUDE,12,,DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW,0,M,,,,20
-ONIX,14,SITRUSBERRY,HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB,0,M,,shiny,,20,,Rocky,,19
-#-------------------------------
 TEAMROCKET_M
 Grunt,1
 1
@@ -141,3 +129,15 @@ Lola
 PIKACHU,1,ORANBERRY
 PIDGEY,1,ORANBERRY
 MACHOP,1,ORANBERRY
+#-------------------------------
+CAMPER
+Liam
+2
+GEODUDE,1
+GEODUDE,1
+#-------------------------------
+LEADER_Brock
+Brock
+2,FULLRESTORE,FULLRESTORE
+GEODUDE,14,,DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW,0,M,,,,20
+ONIX,17,SITRUSBERRY,HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB,0,M,,,,20,,Rocky,,19
