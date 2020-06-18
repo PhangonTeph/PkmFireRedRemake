@@ -15,7 +15,8 @@ WildBattleBGM=Battle wild.mid
 #-------------------------------
 [002]
 # Cidade de Pallet
-MapPosition=0,13,12
+Bicycle=true
+MapPosition=0,5,14
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -212,7 +213,10 @@ ShowArea=true
 #-------------------------------
 [042]
 # Cidade de Viridiana
+Bicycle=true
+MapPosition=0,5,11
 Outdoor=true
+HealingSpot=78,7,6
 ShowArea=true
 #-------------------------------
 [044]
@@ -407,6 +411,14 @@ ShowArea=true
 # Rota 2
 Bicycle=true
 Outdoor=true
+ShowArea=true
+#-------------------------------
+[087]
+# Cidade de Pewter
+Bicycle=true
+MapPosition=0,5,7
+Outdoor=true
+HealingSpot=87,17,28
 ShowArea=true
 #-------------------------------
 [095]
