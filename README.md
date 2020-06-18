@@ -1,37 +1,96 @@
-## Welcome to GitHub Pages
+# Pokémon FireRed Remake
+Um Remake do Pokémon FireRed, com novidades.
 
-You can use the [editor on GitHub](https://github.com/PhangonTeph/PkmFireRedRemake/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Scripts usados
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Level Balance - by Joltik
+* A script to balance the levels of Pokémon in battle, both on the field and in battles against trainers.
+* Source: https://www.pokecommunity.com/showthread.php?t=409828
 
-### Markdown
+### Radial Menu Script - by Yankas
+* Change the standard game menu to a ring-shaped one.
+* Source: https://www.pokecommunity.com/showthread.php?t=402835
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Evolution During Battle - by Vendily
+* Force evolution of Pokémon in battle.
+* Source: https://www.pokecommunity.com/showthread.php?t=398249
 
-```markdown
-Syntax highlighted code block
+### Following Pokémon - by mej71
+* Your Pokémon will follow you in outside of Pokéball.
+* Source: https://www.pokecommunity.com/showthread.php?t=360846
 
-# Header 1
-## Header 2
-### Header 3
+### Unreal Time System - by FL
+* A time system like Harvest Moon games.
+* Source: https://www.pokecommunity.com/showthread.php?t=285831
 
-- Bulleted
-- List
+### Catch Combo System - by Diego Mertens
+* A combo system like Let's Go games, to shiny hunting.
+* Source: https://www.pokecommunity.com/showthread.php?t=420570
 
-1. Numbered
-2. List
+### Change Name from the party - by Diego Mertens and WolfPP
+* An option to change your pokémon name from de party menu.
+* Source: https://www.pokecommunity.com/showthread.php?t=415875
 
-**Bold** and _Italic_ and `Code` text
+### Party screen's Ball - by Lucidious89
+* Add Pokéball grafics on party screen.
+* Source: https://www.pokecommunity.com/showthread.php?t=356862
 
-[Link](url) and ![Image](src)
-```
+### Better PokéCenters - by mej71
+* Add Pokéball grafics on healing scene in PokéCenters.
+* Source: https://www.pokecommunity.com/showthread.php?t=360081
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Multiple Protagonists - by NettoHikari
+* Adds up to 8 new characters in the game.
+* Source: https://www.pokecommunity.com/showthread.php?t=417948
 
-### Jekyll Themes
+### Pokémon Birthsigns - by Lucidious89
+* Adds new birthsing system with zodiac powers.
+* Source: https://www.pokecommunity.com/showthread.php?t=348599
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PhangonTeph/PkmFireRedRemake/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### IV Star Ratings - by Lucidious89
+* Show stars in Pokémon Summary on perfect IVs.
+* Source: https://www.pokecommunity.com/showthread.php?p=8957793
 
-### Support or Contact
+### Egg Groups in Summary - by Lucidious89
+* Show egg groups in Pokémon Summary.
+* Source: https://www.pokecommunity.com/showthread.php?p=8957794
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### HGSS Shiny Leaf Display - by Lucidious89
+* Adds shiny leafs in Pokémon Summary, but only grafics.
+* Source: https://www.pokecommunity.com/showthread.php?p=8956957
+
+### Family Tree - by FL
+* Adds new screen on summary, to show the Pokémon parents.
+* Source: https://www.pokecommunity.com/showthread.php?p=8511110
+
+### Easy Questing System - by Marin
+* Add a quest system and a quest log screen.
+* Source: https://www.pokecommunity.com/showthread.php?t=391062
+
+### Nature Mints - by GT-Baka
+* Add mints to change the Pokémon nature.
+* Source: https://www.pokecommunity.com/showthread.php?t=426125
+
+### Wild Encounters Hidden Abilities Chance - by ShadowphilYt
+* Add chance of wild Pokémon has Hidden Abilities.
+* Source: https://www.pokecommunity.com/showthread.php?t=434841
+
+### Wild Ditto Disguise - by seth_Angel
+* Add chance of wild Pokémon being a Ditto.
+* Source: https://www.pokecommunity.com/showthread.php?t=434457
+
+### Phenomenon - by Boonzeet
+* Add random events that let you snag good rare Pokémon.
+* Source: https://www.pokecommunity.com/showthread.php?t=434457
+
+### Sprites Galar - by Wolfang62
+* Herói masculino de SW/SH
+* Source: https://www.deviantart.com/wolfang62
+
+### Sprites Galar - by Boonzeet
+* Herói feminino de SW/SH
+* Source: https://www.deviantart.com/boonzeet
+
+### Sprites Galar - by Ulithium_Dragon 
+* Shows your Party Pokemon icons on the monitor when healing at a PokeCenter.
+* Source: https://www.pokecommunity.com/showthread.php?t=407560
