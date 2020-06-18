@@ -1,7 +1,7 @@
-# Pokémon Islands
-A Pokémon Fan-game.
+# Pokémon FireRed Remake
+Um Remake do Pokémon FireRed, com novidades.
 
-## Used Scripts
+## Scripts usados
 
 ### Level Balance - by Joltik
 * A script to balance the levels of Pokémon in battle, both on the field and in battles against trainers.
@@ -82,3 +82,15 @@ A Pokémon Fan-game.
 ### Phenomenon - by Boonzeet
 * Add random events that let you snag good rare Pokémon.
 * Source: https://www.pokecommunity.com/showthread.php?t=434457
+
+### Sprites Galar - by Wolfang62
+* Herói masculino de SW/SH
+* Source: https://www.deviantart.com/wolfang62
+
+### Sprites Galar - by Boonzeet
+* Herói feminino de SW/SH
+* Source: https://www.deviantart.com/boonzeet
+
+### Sprites Galar - by Ulithium_Dragon 
+* Shows your Party Pokemon icons on the monitor when healing at a PokeCenter.
+* Source: https://www.pokecommunity.com/showthread.php?t=407560
