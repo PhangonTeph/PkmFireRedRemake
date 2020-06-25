@@ -557,3 +557,6 @@
 557,SERIOUSMINT,Serious Mint,Serious Mints,2,29800,"Um doce muito raro que troca a natureza do Pokémon ao ser comido.",1,0,0,
 558,TIMIDMINT,Timid Mint,Timid Mints,2,29800,"Um doce muito raro que troca a natureza do Pokémon ao ser comido.",1,0,0,
 559,PCTCARVALHO,Pacote do Professor,Pacotes,8,0,"Um pacote que deve ser entregue para o Professor Carvalho.",2,0,6,
+560,MEGARING,Mega Ring,Mega Rings,8,0,"This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve in Battle.",0,0,6,
+561,CHARIZARDITEX,Charizardite X,,1,999,"One variety of the mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve in battle.",0,0,0,
+562,CHARIZARDITEY,Charizardite Y,,1,999,"One variety of the mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve in battle.",0,0,0,

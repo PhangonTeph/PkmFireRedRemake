@@ -1021,7 +1021,7 @@ Evolutions=
 [35]
 Name=Clefairy
 InternalName=CLEFAIRY
-Type1=NORMAL
+Type1=FAIRY
 BaseStats=70,45,48,35,60,65
 GenderRate=Female75Percent
 GrowthRate=Fast
@@ -1053,7 +1053,7 @@ Evolutions=CLEFABLE,Item,MOONSTONE
 [36]
 Name=Clefable
 InternalName=CLEFABLE
-Type1=NORMAL
+Type1=FAIRY
 BaseStats=95,70,73,60,85,90
 GenderRate=Female75Percent
 GrowthRate=Fast
@@ -1151,6 +1151,7 @@ Evolutions=
 Name=Jigglypuff
 InternalName=JIGGLYPUFF
 Type1=NORMAL
+Type2=FAIRY
 BaseStats=115,45,20,20,45,25
 GenderRate=Female75Percent
 GrowthRate=Fast
@@ -1180,6 +1181,7 @@ Evolutions=WIGGLYTUFF,Item,MOONSTONE
 Name=Wigglytuff
 InternalName=WIGGLYTUFF
 Type1=NORMAL
+Type2=FAIRY
 BaseStats=140,70,45,45,75,50
 GenderRate=Female75Percent
 GrowthRate=Fast
@@ -1851,7 +1853,7 @@ WildItemUncommon=KINGSROCK
 BattlerPlayerY=0
 BattlerEnemyY=22
 BattlerAltitude=0
-Evolutions=POLIWRATH,Item,WATERSTONE,POLITOED,TradeItem,KINGSROCK
+Evolutions=POLIWRATH,Item,WATERSTONE,POLITOED,DayHoldItem,KINGSROCK
 #-------------------------------
 [62]
 Name=Poliwrath
@@ -1943,7 +1945,7 @@ WildItemUncommon=TWISTEDSPOON
 BattlerPlayerY=0
 BattlerEnemyY=13
 BattlerAltitude=0
-Evolutions=ALAKAZAM,Trade,
+Evolutions=ALAKAZAM,Level,36
 #-------------------------------
 [65]
 Name=Alakazam
@@ -2032,7 +2034,7 @@ Pokedex=A belt is worn by a Machoke to keep its overwhelming power under control
 BattlerPlayerY=0
 BattlerEnemyY=12
 BattlerAltitude=0
-Evolutions=MACHAMP,Trade,
+Evolutions=MACHAMP,Level,38
 #-------------------------------
 [68]
 Name=Machamp
@@ -2278,7 +2280,7 @@ WildItemUncommon=EVERSTONE
 BattlerPlayerY=0
 BattlerEnemyY=22
 BattlerAltitude=0
-Evolutions=GOLEM,Trade,
+Evolutions=GOLEM,Level,36
 #-------------------------------
 [76]
 Name=Golem
@@ -2402,7 +2404,7 @@ WildItemUncommon=LAGGINGTAIL
 BattlerPlayerY=0
 BattlerEnemyY=31
 BattlerAltitude=0
-Evolutions=SLOWBRO,Level,37,SLOWKING,TradeItem,KINGSROCK
+Evolutions=SLOWBRO,Level,37,SLOWKING,DayHoldItem,KINGSROCK
 #-------------------------------
 [80]
 Name=Slowbro
@@ -2834,7 +2836,7 @@ Pokedex=If a Haunter beckons you while it is floating in darkness, don't approac
 BattlerPlayerY=0
 BattlerEnemyY=20
 BattlerAltitude=15
-Evolutions=GENGAR,Trade,
+Evolutions=GENGAR,Level,36
 #-------------------------------
 [94]
 Name=Gengar
@@ -2894,7 +2896,7 @@ Pokedex=There is a magnet in its brain that prevents an Onix from losing directi
 BattlerPlayerY=0
 BattlerEnemyY=6
 BattlerAltitude=0
-Evolutions=STEELIX,TradeItem,METALCOAT
+Evolutions=STEELIX,Level,36
 #-------------------------------
 [96]
 Name=Drowzee
@@ -3401,7 +3403,7 @@ Pokedex=Its horn, which rotates like a drill, destroys tall buildings with one s
 BattlerPlayerY=0
 BattlerEnemyY=12
 BattlerAltitude=0
-Evolutions=RHYPERIOR,TradeItem,PROTECTOR
+Evolutions=RHYPERIOR,DayHoldItem,PROTECTOR
 #-------------------------------
 [113]
 Name=Chansey
@@ -3554,7 +3556,7 @@ WildItemUncommon=DRAGONSCALE
 BattlerPlayerY=0
 BattlerEnemyY=18
 BattlerAltitude=11
-Evolutions=KINGDRA,TradeItem,DRAGONSCALE
+Evolutions=KINGDRA,Level,36
 #-------------------------------
 [118]
 Name=Goldeen
@@ -3682,6 +3684,7 @@ Evolutions=
 Name=Mr. Mime
 InternalName=MRMIME
 Type1=PSYCHIC
+Type2=FAIRY
 BaseStats=40,45,65,90,100,120
 GenderRate=Female50Percent
 GrowthRate=Medium
@@ -3738,7 +3741,7 @@ Pokedex=Its blindingly fast speed adds to the sharpness of its twin forearm scyt
 BattlerPlayerY=0
 BattlerEnemyY=12
 BattlerAltitude=0
-Evolutions=SCIZOR,TradeItem,METALCOAT
+Evolutions=SCIZOR,DayHoldItem,METALCOAT
 #-------------------------------
 [124]
 Name=Jynx
@@ -3801,7 +3804,7 @@ WildItemUncommon=ELECTIRIZER
 BattlerPlayerY=0
 BattlerEnemyY=13
 BattlerAltitude=0
-Evolutions=ELECTIVIRE,TradeItem,ELECTIRIZER
+Evolutions=ELECTIVIRE,DayHoldItem,ELECTIRIZER
 #-------------------------------
 [126]
 Name=Magmar
@@ -3831,7 +3834,7 @@ WildItemUncommon=MAGMARIZER
 BattlerPlayerY=0
 BattlerEnemyY=13
 BattlerAltitude=0
-Evolutions=MAGMORTAR,TradeItem,MAGMARIZER
+Evolutions=MAGMORTAR,DayHoldItem,MAGMARIZER
 #-------------------------------
 [127]
 Name=Pinsir
@@ -4157,7 +4160,7 @@ Pokedex=It is capable of reverting itself entirely back to program data in order
 BattlerPlayerY=0
 BattlerEnemyY=27
 BattlerAltitude=10
-Evolutions=PORYGON2,TradeItem,UPGRADE
+Evolutions=PORYGON2,DayHoldItem,UPGRADE
 #-------------------------------
 [138]
 Name=Omanyte
@@ -5223,7 +5226,7 @@ Evolutions=PIKACHU,Happiness,
 [173]
 Name=Cleffa
 InternalName=CLEFFA
-Type1=NORMAL
+Type1=FAIRY
 BaseStats=50,25,28,15,45,55
 GenderRate=Female75Percent
 GrowthRate=Fast
@@ -5257,6 +5260,7 @@ Evolutions=CLEFAIRY,Happiness,
 Name=Igglybuff
 InternalName=IGGLYBUFF
 Type1=NORMAL
+Type2=FAIRY
 BaseStats=90,30,15,15,40,20
 GenderRate=Female75Percent
 GrowthRate=Fast
@@ -5286,7 +5290,7 @@ Evolutions=JIGGLYPUFF,Happiness,
 [175]
 Name=Togepi
 InternalName=TOGEPI
-Type1=NORMAL
+Type1=FAIRY
 BaseStats=35,20,65,20,40,65
 GenderRate=FemaleOneEighth
 GrowthRate=Fast
@@ -5316,7 +5320,7 @@ Evolutions=TOGETIC,Happiness,
 [176]
 Name=Togetic
 InternalName=TOGETIC
-Type1=NORMAL
+Type1=FAIRY
 Type2=FLYING
 BaseStats=55,40,85,40,80,105
 GenderRate=FemaleOneEighth
@@ -5525,6 +5529,7 @@ Evolutions=
 Name=Marill
 InternalName=MARILL
 Type1=WATER
+Type2=FAIRY
 BaseStats=70,20,50,40,20,50
 GenderRate=Female50Percent
 GrowthRate=Fast
@@ -5555,6 +5560,7 @@ Evolutions=AZUMARILL,Level,18
 Name=Azumarill
 InternalName=AZUMARILL
 Type1=WATER
+Type2=FAIRY
 BaseStats=100,50,80,50,50,80
 GenderRate=Female50Percent
 GrowthRate=Fast
@@ -6308,7 +6314,7 @@ Evolutions=
 [209]
 Name=Snubbull
 InternalName=SNUBBULL
-Type1=NORMAL
+Type1=FAIRY
 BaseStats=60,80,50,30,40,40
 GenderRate=Female75Percent
 GrowthRate=Fast
@@ -6338,7 +6344,7 @@ Evolutions=GRANBULL,Level,23
 [210]
 Name=Granbull
 InternalName=GRANBULL
-Type1=NORMAL
+Type1=FAIRY
 BaseStats=90,120,75,45,60,60
 GenderRate=Female75Percent
 GrowthRate=Fast
@@ -7068,7 +7074,7 @@ Pokedex=It was created by humans using the power of science. It has been given a
 BattlerPlayerY=0
 BattlerEnemyY=28
 BattlerAltitude=11
-Evolutions=PORYGONZ,TradeItem,DUBIOUSDISC
+Evolutions=PORYGONZ,DayHoldItem,DUBIOUSDISC
 #-------------------------------
 [234]
 Name=Stantler
@@ -8439,6 +8445,7 @@ Evolutions=
 Name=Ralts
 InternalName=RALTS
 Type1=PSYCHIC
+Type2=FAIRY
 BaseStats=28,25,25,40,45,35
 GenderRate=Female50Percent
 GrowthRate=Slow
@@ -8468,6 +8475,7 @@ Evolutions=KIRLIA,Level,20
 Name=Kirlia
 InternalName=KIRLIA
 Type1=PSYCHIC
+Type2=FAIRY
 BaseStats=38,35,35,50,65,55
 GenderRate=Female50Percent
 GrowthRate=Slow
@@ -8496,6 +8504,7 @@ Evolutions=GARDEVOIR,Level,30,GALLADE,ItemMale,DAWNSTONE
 Name=Gardevoir
 InternalName=GARDEVOIR
 Type1=PSYCHIC
+Type2=FAIRY
 BaseStats=68,65,65,80,125,115
 GenderRate=Female50Percent
 GrowthRate=Slow
@@ -8958,7 +8967,7 @@ Evolutions=
 [298]
 Name=Azurill
 InternalName=AZURILL
-Type1=NORMAL
+Type1=FAIRY
 BaseStats=50,20,40,20,20,40
 GenderRate=Female75Percent
 GrowthRate=Fast
@@ -9108,6 +9117,7 @@ Evolutions=
 Name=Mawile
 InternalName=MAWILE
 Type1=STEEL
+Type2=FAIRY
 BaseStats=50,85,85,50,55,55
 GenderRate=Female50Percent
 GrowthRate=Fast
@@ -10026,7 +10036,7 @@ Evolutions=ALTARIA,Level,35
 Name=Altaria
 InternalName=ALTARIA
 Type1=DRAGON
-Type2=FLYING
+Type2=FAIRY
 BaseStats=75,70,90,80,70,105
 GenderRate=Female50Percent
 GrowthRate=Erratic
@@ -13053,6 +13063,7 @@ Incense=ROCKINCENSE
 Name=Mime Jr.
 InternalName=MIMEJR
 Type1=PSYCHIC
+Type2=FAIRY
 BaseStats=20,25,45,60,70,90
 GenderRate=Female50Percent
 GrowthRate=Medium
@@ -13894,7 +13905,7 @@ Evolutions=
 [468]
 Name=Togekiss
 InternalName=TOGEKISS
-Type1=NORMAL
+Type1=FAIRY
 Type2=FLYING
 BaseStats=85,50,95,80,120,115
 GenderRate=FemaleOneEighth
@@ -16088,6 +16099,7 @@ Evolutions=
 Name=Cottonee
 InternalName=COTTONEE
 Type1=GRASS
+Type2=FAIRY
 BaseStats=40,27,60,66,37,50
 GenderRate=Female50Percent
 GrowthRate=Medium
@@ -16116,6 +16128,7 @@ Evolutions=WHIMSICOTT,Item,SUNSTONE
 Name=Whimsicott
 InternalName=WHIMSICOTT
 Type1=GRASS
+Type2=FAIRY
 BaseStats=60,67,85,116,77,75
 GenderRate=Female50Percent
 GrowthRate=Medium
